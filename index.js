@@ -40,7 +40,7 @@ const client = new Discord.Client({
     ],
     presence: {
       activity: {
-        name: `+help | musicium.eu`, 
+        name: `+help | epic music`, 
         type: "PLAYING", 
       },
       status: "online"
